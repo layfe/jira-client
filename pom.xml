@@ -1,14 +1,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>net.rcarz</groupId>
+  <groupId>net.layfe</groupId>
   <artifactId>jira-client</artifactId>
   <version>0.6-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>jira-client</name>
   <description>A simple JIRA REST client</description>
-  <url>https://github.com/rcarz/jira-client</url>
+  <url>https://github.com/layfe/jira-client</url>
 
   <licenses>
     <license>
@@ -19,8 +19,8 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/rcarz/jira-client</url>
-    <connection>https://github.com/rcarz/jira-client</connection>
+    <url>https://github.com/layfe/jira-client</url>
+    <connection>https://github.com/layfe/jira-client</connection>
   </scm>
 
   <developers>
